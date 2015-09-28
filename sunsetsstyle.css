@@ -1,0 +1,9 @@
+body {
+  font: 16px/1.5 Arial, sans-serif;
+}
+
+align-content: center
+
+.flex-container {
+  align-content: space-around;
+}
