@@ -10,3 +10,7 @@ align-content: center
 section {
   text-align: center;
 }
+
+section {
+  column-width: 600px;
+}
