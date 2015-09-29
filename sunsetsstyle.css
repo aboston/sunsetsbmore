@@ -8,5 +8,6 @@ align-content: center
 }
 
 section {
-  text-align: center;
+  width: 600px;
+  margin: 0px auto;
 }
